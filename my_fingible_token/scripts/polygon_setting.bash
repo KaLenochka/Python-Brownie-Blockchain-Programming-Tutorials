@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+brownie networks add Polygon mumbai_moralis host='https://speedy-nodes-nyc.moralis.io/0ca1afa1a2e1c457643d657e/polygon/mumbai' name='Mambai (Moralis)' chainid=80001 explorer='https://explorer-mumbai.maticvigil.com/'
